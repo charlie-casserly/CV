@@ -1,6 +1,10 @@
-## Your Name
+## Charlie Casserly
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+
+I am an ambitious Junior Developer, very excited to continue problem solving and challenging myself in a role where I can extend my programming knowledge.
+I am eager to take on a career in the tech industry in or around London, where I hope to further expand my knowledge in Full-Stack development.
+
 
 ## Projects
 
