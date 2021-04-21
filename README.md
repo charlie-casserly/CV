@@ -4,8 +4,7 @@ Under Construction
 
 <strike>A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.</strike>
 
-I am an ambitious Junior Developer, recent graduate of Makers Academy, with previous experience in Electrical Installation and Maintenance. I am passionate about both problem solving and tech and I am very excited to land a role where I can challenge myself and extend my programming knowledge.
-I am hoping to find a role in the tech industry in or around London, where I can further expand my knowledge in Full-Stack development.
+I am an ambitious Junior Developer and recent graduate of Makers Academy, with previous experience in Electrical Installation and Maintenance. I am passionate about tech and have a fiery knack for problem solving.
 
 
 ## Projects
@@ -81,3 +80,5 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 ## Hobbies
 
 <strike>Any cool stuff that makes you a super part of a software development team</strike>
+
+
