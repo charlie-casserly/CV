@@ -1,9 +1,11 @@
 ## Charlie Casserly
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+Under Construction
 
-I am an ambitious Junior Developer, very excited to continue problem solving and challenging myself in a role where I can extend my programming knowledge.
-I am eager to take on a career in the tech industry in or around London, where I hope to further expand my knowledge in Full-Stack development.
+<strike>A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.</strike>
+
+I am an ambitious Junior Developer, recent graduate of Makers Academy, with previous experience in Electrical Installation and Maintenance. I am passionate about both problem solving and tech and I am very excited to land a role where I can challenge myself and extend my programming knowledge.
+I am hoping to find a role in the tech industry in or around London, where I can further expand my knowledge in Full-Stack development.
 
 
 ## Projects
@@ -15,45 +17,45 @@ I am eager to take on a career in the tech industry in or around London, where I
 
 ## Work Experience
 
+<strike>**Company Name** (start-date to end-date)  
+<strike>_Your job title_
+
+<strike>- Any experience, including roles and responsibilities and results achived in bullet point format.
+
 **Company Name** (start-date to end-date)  
-_Your job title_
+<strike>_Your job title_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
+<strike>- Any experience relevent to software development</strike>
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
+<strike>Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+(Using a STAR example Paragraph) Consider the questions below.</strike>
 
--STAR
--What was the situation/task? (ST)
+<strike>-STAR
+<strike>-What was the situation/task? (ST)
 
--How was the skill used?
+<strike>-How was the skill used?
 
--What did you do? (action)
+<strike>-What did you do? (action)
 
--What was the result?
+<strike>-What was the result?
 
 
-#### This Skill
+<strike>#### This Skill
 
-- Experience
-- Achievements
-- Evidence (STAR)
+<strike>- Experience
+<strike>- Achievements
+<strike>- Evidence (STAR)
 
 #### Another Skill
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
+<strike>Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
 
 - I achieved A during my work at B (job, or otherwise)
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- A link to some on-line evidence (blogs, videos, articles, etc.)</strike>
 
 ## Education
 
@@ -66,16 +68,16 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+<strike>#### Your University / College (start_date to end_date)
 
 - Subject, any specialisms
 - Grade
-- Other cool stuff
+- Other cool stuff</strike>
 
 #### Any other qualifications
 
-That in some arguable way make you a better software developer or well-rounded person
+<strike>That in some arguable way make you a better software developer or well-rounded person</strike>
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+<strike>Any cool stuff that makes you a super part of a software development team</strike>
