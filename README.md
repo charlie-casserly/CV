@@ -18,39 +18,39 @@ I am hoping to find a role in the tech industry in or around London, where I can
 ## Work Experience
 
 <strike>**Company Name** (start-date to end-date)  
-<strike>_Your job title_
+_Your job title_
 
-<strike>- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Any experience, including roles and responsibilities and results achived in bullet point format.</strike>
 
 **Company Name** (start-date to end-date)  
 <strike>_Your job title_
 
-<strike>- Any experience relevent to software development</strike>
+- Any experience relevent to software development</strike>
 
 ## Skills
 
 <strike>Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.</strike>
+(Using a STAR example Paragraph) Consider the questions below.
 
-<strike>-STAR
-<strike>-What was the situation/task? (ST)
+-STAR
+-What was the situation/task? (ST)
 
-<strike>-How was the skill used?
+-How was the skill used?
 
-<strike>-What did you do? (action)
+-What did you do? (action)
 
-<strike>-What was the result?
+-What was the result?
 
 
-<strike>#### This Skill
+#### This Skill
 
-<strike>- Experience
-<strike>- Achievements
-<strike>- Evidence (STAR)
+- Experience
+- Achievements
+- Evidence (STAR)
 
 #### Another Skill
 
-<strike>Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
+Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
 
 - I achieved A during my work at B (job, or otherwise)
 - I contributed to the growth of X while doing Y (job, or otherwise)
