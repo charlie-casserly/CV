@@ -80,4 +80,4 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 ## Hobbies
 
 <strike>Any cool stuff that makes you a super part of a software development team</strike>
-I've played electric guitar since I was a teenager and started taking piano lessons two years ago. I'm also an avid gamer, so if I'm not slapping keys on my piano I'll be found slapping buttons on a controller of some sort instead. I recently tried to take up skateboarding but it hurt a lot so I gave up. Always trying new things!
+I've played electric guitar since I was a teenager and started taking piano lessons two years ago. I'm also an avid gamer, so if I'm not slapping keys on my piano I'll be found slapping buttons on a controller of some sort. I recently tried to take up skateboarding but it hurt a lot so I gave up. Always trying new things!
