@@ -4,7 +4,7 @@ Under Construction
 
 <strike>A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.</strike>
 
-I am an ambitious Junior Developer and recent graduate of Makers Academy, with previous experience in Electrical Installation and Maintenance. I am passionate about tech, have a fiery knack for problem solving, 
+<strike>I am an ambitious Junior Developer and recent graduate of Makers Academy, with previous experience in Electrical Installation and Maintenance. I am passionate about tech, have a fiery knack for problem solving</strike>
 
 
 ## Projects
