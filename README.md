@@ -1,83 +1,62 @@
-## Charlie Casserly
+<h1 align="center"> Charlie Casserly</h1>
 
-Under Construction
+<div align="center">
 
-<strike>A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.</strike>
+[Background ](#background) |
+[Projects ](#projects) |
+[Skills ](#skills) |
+[Education ](#education) |
+[Experience ](#experience) |
+[Interests](#interests)
 
-<strike>I am an ambitious Junior Developer and recent graduate of Makers Academy, with previous experience in Electrical Installation and Maintenance. I am passionate about tech, have a knack for problem solving</strike>
+</div>
 
+# Background
 
-## Projects
+I am a full-stack developer, having recently graduated from Makers' Academy
+16 week coding bootcamp. I'm a lifelong lover of tech and I'm at my best when 
+working with logic based problems. I always knew I would love coding, but
+Makers' allowed me to realise just how well suited to writing code I am. 
+I have now left the course eager to take this learning experience further 
+and add to my knowledge.
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+# Projects
 
-## Work Experience
+| Project       | Description                  | Technologies   | Testing   |
+|--|--|--|--|
+| [Tavern Keepers](https://github.com/jennybell/dnd-finder) | My final project at Makers. Tavern Keepers is a web application designed to help it's userbase find groups for playing Dungeons & Dragons. | Ruby on Rails, Active Record, TravisCI, Heroku | RSpec, Capybara |
+| [Bank Tech Test](https://github.com/charlie-casserly/bank-tech-test) | A simple banking program I made in order to practice OOD, TDD, and programming fluency. | Ruby | RSpec |
+| [Acebook](https://github.com/mvgame74/acebook-rails-The-Wallies) | A facebook-inspired social media platform. | Ruby on Rails, TravisCI, Active Record | RSpec, Capybara |
 
-<strike>**Company Name** (start-date to end-date)  
-_Your job title_
+# Skills
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.</strike>
+### Leadership
 
-**Company Name** (start-date to end-date)  
-<strike>_Your job title_
+I am able to showcase my leasdership skills in helping my team's project ideas come into fruition. I am comfortable taking the lead in a group setting and also get a lot of enjoyment from helping people. Because of this, I decided to take on two mentees from two cohorts behind my own at Makers Academy. I have really enjoyed helping them through their Makers journeys and the experience has shown me that helping people to learn to code is something that I am good at. 
 
-- Any experience relevent to software development</strike>
+### Problem Solving/Logic
 
-## Skills
+I have always considered myself a skilled problem solver and have thrived as one during my time coding. I love being challenged and the majority of my favourite moments at Makers were also the most challenging. I have garnered a love for TDD and using pragmatic concepts such as test triangulation to methodically break a problem down into sizeable chunks, and I now have a passion for seeing the red turn green.
 
-<strike>Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
+### Clean Code
 
--STAR
--What was the situation/task? (ST)
+Having clean, well-tested code is something I find very rewarding and something I have become proud of during my time at Makers Academy. I have enjoyed taking time towards the end of a project to scan my group's code, to get an understanding of what is going on, to see what can be made DRY or written better, and to do some refactoring after discussions with the group. I find that I am not completely satisfied by a functioning product until the code looks nice and is easy for other developers to read.
 
--How was the skill used?
+### Attention to detail
 
--What did you do? (action)
+Having worked as an Installation Electrician prior to joining Makers, I'm more than familiar with delivering high-quality work that meets the clients' specification. My professional career prior to coding was always focused on group projects where I read drawings and follow specifications with very little margin for adjustment, and at Makers, this skillset has given me the foresight to meet acceptance criteria the first time around.
 
--What was the result?
+### Communication/Teamwork
 
+I am a strong communicator in cross-functional teams, as demonstrated in my electrical career. I tend to enjoy working as a team and seeing a collective amount of hard work come together to form something solid. I've worked in small teams to complete small projects and I've worked with large teams on developments that have taken upward of 12 months to complete. I would list my communication skills as one of my biggest strengths, which is why group projects at Makers were by far my favourite moments up to date in my code learning experience. 
 
-#### This Skill
+# Education
 
-- Experience
-- Achievements
-- Evidence (STAR)
+#### Makers Academy (April 2021 - July 2021)
 
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)</strike>
-
-## Education
-
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
+- OOP, TDD, MVC
+- Agile, Pair Programming
 - Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- RSpec, Jasmine, TravisCI
+- Git
 
-<strike>#### Your University / College (start_date to end_date)
-
-- Subject, any specialisms
-- Grade
-- Other cool stuff</strike>
-
-#### Any other qualifications
-
-<strike>That in some arguable way make you a better software developer or well-rounded person</strike>
-
-## Hobbies
-
-<strike>Any cool stuff that makes you a super part of a software development team</strike>
-I've played electric guitar since I was a teenager and started taking piano lessons two years ago. I'm also an avid gamer, so if I'm not slapping keys on my piano I'll be found slapping buttons on a controller of some sort. I recently tried to take up skateboarding but it hurt a lot so I gave up. Always trying new things!
