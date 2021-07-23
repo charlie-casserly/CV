@@ -20,6 +20,22 @@ Makers' allowed me to realise just how well suited to writing code I am.
 I have now left the course eager to take this learning experience further 
 and add to my knowledge.
 
+Prior to Makers I worked as an Electrician, which I also pursued for my love of 
+all things techy. Having learned about coding bootcamps, I decided to leap at 
+the opportunity to get a job in an industry I had always dreamed of working in.
+
+# Education
+
+### Makers Academy (April 2021 - July 2021)
+
+- Object Oriented Programming, Test Driven Development, Web Development
+  - Technologies: Ruby, Rails, JavaScript
+  - Testing frameworks: RSpec/Capybara, Jasmine, TravisCI
+- Agile/XP, Pair Programming, Group Projects
+  - Pair Programming for 3-4 hours every afternoon
+  - Agile/XP development employed on all group projects
+  - An abundant use of Git for the duration of my time coding
+
 # Projects
 
 | Project       | Description                  | Technologies   | Testing   |
@@ -50,13 +66,8 @@ Having worked as an Installation Electrician prior to joining Makers, I'm more t
 
 I am a strong communicator in cross-functional teams, as demonstrated in my electrical career. I tend to enjoy working as a team and seeing a collective amount of hard work come together to form something solid. I've worked in small teams to complete small projects and I've worked with large teams on developments that have taken upward of 12 months to complete. I would list my communication skills as one of my biggest strengths, which is why group projects at Makers were by far my favourite moments up to date in my code learning experience. 
 
-# Education
 
-#### Makers Academy (April 2021 - July 2021)
+# Interests
 
-- OOP, TDD, MVC
-- Agile, Pair Programming
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine, TravisCI
-- Git
-
+- Lifelong interest in gaming and more recently esports, or just spending time on my PC in general. I have always been a big user of the Internet, whether it's for knocking around on message boards or playing games with friends.
+- I have played guitar for 17 years and began taking piano lessons in late 2019. Music and instruments are a big part of my life and I play almost daily, whether it's playing with other people or just practising to improve on my musical vocabulary.
