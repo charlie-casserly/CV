@@ -15,7 +15,9 @@
 I am a full-stack developer, having recently graduated from Makers' Academy
 16 week coding bootcamp. I'm a lifelong lover of tech and I'm at my best when 
 working with logic based problems. I always knew I would love coding, but
-Makers' allowed me to realise just how well suited to writing code I am. 
+Makers' allowed me to realise just how well suited to writing code I am.
+I have also taken on two mentees from two cohorts behind my own and am enjoying
+teaching them Ruby, Javascript, and Test Driven Development.
 I have now left the course eager to take this learning experience further 
 and add to my knowledge.
 
@@ -47,7 +49,7 @@ the opportunity to get a job in an industry I had always dreamed of working in.
 
 ### Leadership
 
-I am able to showcase my leasdership skills in helping my team's project ideas come into fruition. I am comfortable taking the lead in a group setting and also get a lot of enjoyment from helping people. Because of this, I decided to take on two mentees from two cohorts behind my own at Makers Academy. I have really enjoyed helping them through their Makers journeys and the experience has shown me that helping people to learn to code is something that I am good at. 
+I am able to showcase my leadership skills in helping my team's project ideas come into fruition. I am comfortable taking the lead in a group setting and also get a lot of enjoyment from helping people. Because of this, I decided to take on two mentees from two cohorts behind my own at Makers Academy. I have really enjoyed helping them through their Makers journeys and the experience has shown me that helping people to learn to code is something that I am good at. 
 
 ### Problem Solving/Logic
 
